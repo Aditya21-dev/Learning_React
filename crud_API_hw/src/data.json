@@ -1,0 +1,32 @@
+{
+  "userdata": [
+    {
+      "name": "Aditya",
+      "age": 19,
+      "contact": 8839125240,
+      "city": "Bhopal",
+      "id": "2b96"
+    },
+    {
+      "id": "e345",
+      "name": "Shivangi",
+      "age": "19",
+      "contact": "6306257123",
+      "city": "Anand Nagar"
+    },
+    {
+      "id": "3a8c",
+      "name": "test_1",
+      "age": "19",
+      "contact": "1236549870",
+      "city": "Goa"
+    },
+    {
+      "id": "cb61",
+      "name": "Radio",
+      "age": "19",
+      "contact": "1236549870",
+      "city": "Goa"
+    }
+  ]
+}
